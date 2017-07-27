@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Magik Image</string>
+
+    <string name="error_permission">Please grant permission for app.</string>
+    <string name="error_update_word_error">Update word list errors.</string>
+</resources>

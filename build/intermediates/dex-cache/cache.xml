@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/qkt/.android/build-cache/4ddc466cb2fd4f9967650571e44b47715a076d74/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/qkt/Workspaces/Android/MagikImage/app/build/intermediates/pre-dexed/debug/classes_09f2f0e3f1e408a9cf295049c958c567be2b3906.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/qkt/.android/build-cache/2eebb08408b6a0325cc751157ab859f0658e5dd5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/qkt/Workspaces/Android/MagikImage/app/build/intermediates/pre-dexed/debug/classes_75077f464bb2cf5cf45101e1c39834098c2b7d20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/qkt/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/home/qkt/Workspaces/Android/MagikImage/app/build/intermediates/pre-dexed/debug/okhttp-3.8.0_ebf6406b7fe23d0b4006d27ca9d871146952d93b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/qkt/.android/build-cache/34435af7e9fe7ef877e05a5e2267f66f08cdd076/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/qkt/Workspaces/Android/MagikImage/app/build/intermediates/pre-dexed/debug/classes_c6c4deccd844524a152087ad393b7eb68bba140d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/qkt/.android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/qkt/Workspaces/Android/MagikImage/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_cc3eeef5c3c16b9a92a1e9a65ad0e99cac9c0552.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/qkt/.android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/qkt/Workspaces/Android/MagikImage/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_93b7c21492f2131b62d595c8b0d15e7fba4141df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/qkt/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.1/2a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0/gson-2.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="02a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0">
+        <dex dex="/home/qkt/Workspaces/Android/MagikImage/app/build/intermediates/pre-dexed/debug/gson-2.8.1_5c49190781e47cb893d210853ae7b49bbe7b2d29.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/qkt/Workspaces/Android/MagikImage/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a0539551b84ee814652e9c7b0439eeb03c13313b">
+        <dex dex="/home/qkt/Workspaces/Android/MagikImage/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_96c572849103a7410f39818575c366d95dc81e07/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/qkt/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.0/2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1/rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1">
+        <dex dex="/home/qkt/Workspaces/Android/MagikImage/app/build/intermediates/pre-dexed/debug/rxjava-2.1.0_b14035e5b3da2b540ce66838bf66aff1388387d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/qkt/.android/build-cache/1283c7ea0300e58889be1e28101df965974ae719/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/qkt/Workspaces/Android/MagikImage/app/build/intermediates/pre-dexed/debug/classes_6b36b3f287d473089a4aad74c10a553f8f2042d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/qkt/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/home/qkt/Workspaces/Android/MagikImage/app/build/intermediates/pre-dexed/debug/converter-gson-2.1.0_5553b6c5dfdc2d109b3b8a6b1f0d54af2698e575.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/qkt/.android/build-cache/f0892710d2aaa0910b19f6d6eafd560f814a2f76/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/qkt/Workspaces/Android/MagikImage/app/build/intermediates/pre-dexed/debug/classes_6274a2d226fe6a9e89c7df87a0f0d26a014212eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/qkt/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/home/qkt/Workspaces/Android/MagikImage/app/build/intermediates/pre-dexed/debug/reactive-streams-1.0.0_fb35913fde6139b9da5e7fa1d8bf07672ee48d63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/qkt/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/qkt/Workspaces/Android/MagikImage/app/build/intermediates/pre-dexed/debug/okio-1.13.0_2a0356b914a885a4299dd7bf8dd28dbea9b9686b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/qkt/.android/build-cache/39345f2d3910edc4001af382af0cd8e22e4c4728/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/qkt/Workspaces/Android/MagikImage/app/build/intermediates/pre-dexed/debug/classes_a6a0114b05d96d3e1c7fd7f7bcd2f7212c34992c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/qkt/.android/build-cache/11ec689c19e755b2e7c57aea2446c11c86d540f4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/qkt/Workspaces/Android/MagikImage/app/build/intermediates/pre-dexed/debug/classes_c5eea0c9a0245511953a60db02a45df5f4d30e06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/qkt/.android/build-cache/4e55f120fb444a6a30d20df242dec0bca2ac061f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/qkt/Workspaces/Android/MagikImage/app/build/intermediates/pre-dexed/debug/classes_c2cef93e80a1a2662b4cad57702227acc5fbed24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/qkt/.android/build-cache/3809459495c5099104099035f0c6f000d0a3a5d9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/qkt/Workspaces/Android/MagikImage/app/build/intermediates/pre-dexed/debug/classes_7d2b97e3ed9e84db3495784cb6bec191cee2797e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/qkt/.android/build-cache/fb3f161a5b3eaa6a3d34edc50d94b785db9e5822/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/qkt/Workspaces/Android/MagikImage/app/build/intermediates/pre-dexed/debug/classes_442b79312421fbd6f2376795a1fbc21955ec3a5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/qkt/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.7.0/2637055420a2da406e3ea9920c2ff4aafd38c970/butterknife-annotations-8.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2637055420a2da406e3ea9920c2ff4aafd38c970">
+        <dex dex="/home/qkt/Workspaces/Android/MagikImage/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.7.0_668a2d06d2a56c2b0eccc61ffca9d9176d091a51.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/qkt/Workspaces/Android/MagikImage/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/qkt/Workspaces/Android/MagikImage/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f54057c08ee950b12b5724f4eb3e0c4158d3118d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/qkt/.android/build-cache/5e0bd129a2b6c3b554d6a5745750cd67a2ba71cf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/home/qkt/Workspaces/Android/MagikImage/app/build/intermediates/pre-dexed/debug/classes_a410b8843a3eea470c5699561d592eaeec598d31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/qkt/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/qkt/Workspaces/Android/MagikImage/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_f8bb38f8914dc991dca2052c2724d1e8d3e651f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/qkt/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/home/qkt/Workspaces/Android/MagikImage/app/build/intermediates/pre-dexed/debug/retrofit-2.3.0_d992eba8367c3515e5268a5a70f178aff48986b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/qkt/.android/build-cache/4acd36f598b203e298dacf1728f7d3f4c9c1bf07/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0b7d39c161cecdb6c2b52a1cdc71faf0ffd4626e">
+        <dex dex="/home/qkt/Workspaces/Android/MagikImage/app/build/intermediates/pre-dexed/debug/classes_ffcf60536baa845cfbc342060b29ea1215c47476.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/qkt/.android/build-cache/40c68a2c11096c95a35a37f7460ef39d54ab356d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/qkt/Workspaces/Android/MagikImage/app/build/intermediates/pre-dexed/debug/classes_f78f20246dd81e78faa2fc5c610a3dea20f0727a.jar" />
+    </item>
+
+</items>
